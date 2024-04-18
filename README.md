@@ -1,12 +1,5 @@
 # Stock Forecasting Using RNNs
 
-Final project - DATSCI 207  
-Spring 2024  
-
-Daniel Florencio   
-David Ilitzky  
-Tahlee Stone  
-
 These document provides a very brief overview of the project. Please check the notebook for the full analysis.
 
 ## Motivation
@@ -119,7 +112,3 @@ Additionally, it would be beneficial to explore other features to enhance the mo
 | GRU        | SGD       | 64         | 0.001         | 60              | 24551        | 33.68      | 98.16           | 127.05    |
 | GRU        | SGD       | 32         | 0.01          | 60              | 24551        | 2.83       | 7.54            | 8.19      |
 | GRU        | SGD       | 32         | 0.001         | 90              | 24551        | 4.82       | 11.82           | 17.50     |
-
-## Contributions
-
-All the team members contributed equally to this project. Data selection, processing, model selection, algorithm implementations and slides were all produced as a group with equal participation.
